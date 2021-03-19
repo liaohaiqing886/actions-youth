@@ -1,4 +1,4 @@
-可以就填下我的邀请码：51767260
+可以就填下我的邀请码：
 
 # actions-youth
 - https://github.com/Sunert/Scripts
